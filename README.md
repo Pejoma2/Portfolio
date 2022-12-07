@@ -95,7 +95,7 @@ Feel free to check the [issues page](https://github.com/Pejoma2/Hello-Microverse
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Pejoma2/Hello-Microverse/blob/main/LICENSE.md) licensed.
+This project is [MIT](https://github.com/Pejoma2/Portfolio/blob/add-license-1/LICENSE.md) licensed.
 
 
 
