@@ -20,7 +20,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Portfolio <a name="about-project"></a>
+> # 📖 Portfolio <a name="about-project"></a>
 
 
 
@@ -78,7 +78,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Pejoma2/Hello-Microverse/issues).
+Feel free to check the [issues page](https://github.com/Pejoma2/Portfolio/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,3 +100,4 @@ This project is [MIT](https://github.com/Pejoma2/Portfolio/blob/add-license-1/LI
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
